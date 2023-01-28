@@ -1,0 +1,12 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+## Include x64 and x86 for version control
+#x64/
+#x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
